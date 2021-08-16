@@ -23,4 +23,5 @@
   
    ![Snake animation](https://github.com/AmandaCrstna/AmandaCrstna/blob/output/github-contribution-grid-snake.svg)
   
+  
 
